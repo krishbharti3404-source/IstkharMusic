@@ -9,12 +9,11 @@ heroku3
 httpx[http2]==0.25.2
 motor
 numpy
-opencv-python
+opencv-python-headless
 pillow==9.5.0
 psutil
 py-tgcalls==0.9.7
 pytgcrypto
-kurigram
 python-dotenv
 pyyaml
 requests
@@ -26,6 +25,5 @@ yt-dlp
 youtube-search
 youtube-search-python
 
-# REQUIRED FOR YOUR BOT
+# Required for your bot
 pyrogram==2.0.106
-tgcrypto
