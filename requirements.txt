@@ -25,3 +25,7 @@ uvloop; sys_platform != "win32"
 yt-dlp
 youtube-search
 youtube-search-python
+
+# REQUIRED FOR YOUR BOT
+pyrogram==2.0.106
+tgcrypto
